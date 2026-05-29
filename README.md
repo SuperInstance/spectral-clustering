@@ -44,3 +44,5 @@ let silhouette = sc.silhouette(&clusters);
 
 - Jacobi eigenvalue decomposition (cyclic sweeps) for symmetric matrices
 - K-means++ clustering in eigenvector space
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
